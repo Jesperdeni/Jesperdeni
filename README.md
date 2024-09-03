@@ -13,6 +13,6 @@ I'm a passionate developer who loves building creative and innovative solutions 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesperdeni &theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jesperdeni &icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Jesperdeni &icon=5&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
